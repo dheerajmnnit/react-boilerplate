@@ -1,11 +1,6 @@
 # React-Boilerplate 
 # This is my react-boilerplate
 
-## Setup npm 
-## install npm run build 
-## npm start
-
-Simple React Webpack boilerplate
 To use this simple boilerplate for React Apps.
 
 Instructions: 
